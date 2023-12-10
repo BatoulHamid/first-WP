@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bati &#8211; WPtest</title>
+	<atom:link href="http://127.0.0.1/testWordPress/author/bati/feed/?simply_static_page=956" rel="self" type="application/rss+xml" />
+	<link>/ https://batoulhamid.github.io/testWordPress/</link>
+	<description></description>
+	<lastBuildDate>Sun, 10 Dec 2023 12:14:03 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>أهلاً بالعالم !</title>
+		<link>/ https://batoulhamid.github.io/testWordPress//2023/12/10/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+					<comments>/ https://batoulhamid.github.io/testWordPress//2023/12/10/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comments</comments>
+		
+		<dc:creator><![CDATA[bati]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2023 12:14:03 +0000</pubDate>
+				<category><![CDATA[غير مصنف]]></category>
+		<guid isPermaLink="false">/ https://batoulhamid.github.io/testWordPress//?p=1</guid>
+
+					<description><![CDATA[مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررّها أو احذفها، ثم ابدأ النشر!]]></description>
+										<content:encoded><![CDATA[
+<p>مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررّها أو احذفها، ثم ابدأ النشر!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ https://batoulhamid.github.io/testWordPress//2023/12/10/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
