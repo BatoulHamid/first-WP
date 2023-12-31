@@ -6,7 +6,7 @@
       <div class="our-work text-center pb-5 pt-5">
         <div class="container position-relative pt-5 pb-5 ">
           <div class="main-title mt-5 mp-5 position-relative">
-            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/yellow.png">
+            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/yellow-1.png">
             <h2>We Make This </h2>
             <p class="text-black-50  text-uppercase">prepare to be amazed</p>
           </div>

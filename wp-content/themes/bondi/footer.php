@@ -5,7 +5,7 @@
 <footer>
         <div class="row ">
         <div class="col-md-4 col-lg-4 pt-5 pb-4">
-          <img src="http://localhost/wordpress/wp-content/uploads/2023/07/Untitled-1.png" class="img-fluid pb-3" alt="...">
+          <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/Untitled-1.png" class="img-fluid pb-3" alt="...">
 <p>Pellentesque in ipsum id orci porta dapibus. Vivamus magna justo, 
   lacinia eget consectetur sed, convallis at tellus.</p>
   <p>Created by Graphberry,Belgrade,Serbia </p>

@@ -4,7 +4,7 @@
  <div class="features text-center">
         <div class="container pt-5 pb-5">
           <div class="main-title mt-5 mp-5 position-relative">
-            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/yellow.png" alt="">
+            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/yellow-1.png" alt="">
             <h2>We are Good at </h2>
             <p class="text-black-50  text-uppercase">some of thease stuff under</p>
           </div>
@@ -53,7 +53,7 @@
       <div class="our-work text-center pb-5 pt-5">
         <div class="container pt-5 pb-5 ">
           <div class="main-title mt-5 mp-5 position-relative">
-            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/yellow.png">
+            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/yellow-1.png">
             <h2>We Make This </h2>
             <p class="text-black-50  text-uppercase">prepare to be amazed</p>
           </div>
@@ -152,7 +152,7 @@
     <div class="stuff pt-5">
       <div class="container  ">
         <div class="main-title mt-5 mb-5 text-center  ">
-          <img src="http://localhost/wordpress/wp-content/uploads/2023/07/yellow.png">
+          <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/yellow-1.png">
           <h2>some stuff about us</h2>
           <p class="text-black-50  text-uppercase">the great team</p>
         </div>
@@ -185,7 +185,7 @@
  <!-- section 2 in row -->  
  <div class=" col-lg-8 ">
   <div class="box mt-3 " >
-    <img src="http://localhost/wordpress/wp-content/uploads/2023/07/screen.png" alt="" class="img-fluid">
+    <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/screen.png" alt="" class="img-fluid">
     
   </div>
 </div>
@@ -209,7 +209,7 @@
     <!-- section 1 in row -->  
     <div class="col-md-6 col-lg-3 col-sm-6">
       <div class="box mb-3 bg-white"  >
-        <img src="http://localhost/wordpress/wp-content/uploads/2023/07/white.png" alt="" class="img-fluid">
+        <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/white.png" alt="" class="img-fluid">
       
 <h4 class="text-light">Luke Skywalker</h4>
   <blockquote class="  text-center text-black-50" >
@@ -224,7 +224,7 @@
     <!-- section 2 in row -->   
     <div class="col-md-6 col-lg-3 col-sm-6 ">
       <div class="box mb-3 bg-white" >
-        <img src="http://localhost/wordpress/wp-content/uploads/2023/07/white.png" alt="" class="img-fluid">
+        <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/white.png" alt="" class="img-fluid">
         <h4 class="text-light">bi-Wan Kenobi</h4>
   <blockquote class="  text-center text-black-50" >
     “Your clones are very impressive. You must be very proud”
@@ -234,7 +234,7 @@
      <!-- section 3 in row--> 
      <div class="col-md-6 col-lg-3 col-sm-6">
       <div class="box mb-3 bg-white" >
-        <img src="http://localhost/wordpress/wp-content/uploads/2023/07/white.png" alt="" class="img-fluid">
+        <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/white.png" alt="" class="img-fluid">
 
         <h4 class="text-light">Princess Leia</h4>
         <blockquote class="  text-center text-black-50" >
@@ -245,7 +245,7 @@
       <!-- section 4 in row--> 
       <div class="col-md-6 col-lg-3 col-sm-6">
         <div class="box mb-3 bg-white" >
-          <img src="http://localhost/wordpress/wp-content/uploads/2023/07/white.png" alt="" class="img-fluid">
+          <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/white.png" alt="" class="img-fluid">
           
           <h4 class="text-light">Yoda</h4>
         <blockquote class="  text-center text-black-50 " >
@@ -261,22 +261,22 @@
       <div class="tech pb-5 pt-5">
         <div class="row text-center align-items-center">
           <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3">
-<img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech1.png">
+<img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech1-1.png">
           </div>
           <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3">
-            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech2.png" alt="" class="img-fluid">
+            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech2-1.png" alt="" class="img-fluid">
                       </div>
                       <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3">
-                        <img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech3.png" alt="" class="img-fluid">
+                        <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech3-1.png" alt="" class="img-fluid">
                                   </div>
                                   <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3">
-                                    <img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech4.png" alt="" class="img-fluid">
+                                    <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech4-1.png" alt="" class="img-fluid">
                                               </div>
                                               <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3" >
-                                                <img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech1.png" alt="" class="img-fluid">
+                                                <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech1-1.png" alt="" class="img-fluid">
                                                           </div>
                                                           <div class="col-md-4 col-lg-2 col-sm-4 mt-3 mb-3" >
-                                                            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/tech2.png" alt="" class="img-fluid">
+                                                            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/tech2-1.png" alt="" class="img-fluid">
                                                                       </div>
 
         </div>
@@ -294,7 +294,7 @@
       <div class="blog text-center">
         <div class="container  pt-5 pb-5">
           <div class="main-title mt-5 mp-5 position-relative ">
-            <img src="http://localhost/wordpress/wp-content/uploads/2023/07/yellow.png">
+            <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/yellow-1.png">
             <h2>Read Our Blog </h2>
             <p class="text-black-50  text-uppercase">new stories</p>
           </div>
@@ -302,7 +302,7 @@
             <!-- section 1 in row -->  
             <div class="col-md-6 col-lg-4 pt-5 pb-5">
                 <div class="card" style="width: 18rem;">
-                  <img src="http://localhost/wordpress/wp-content/uploads/2023/07/blog.png" class="card-img-top" alt="...">
+                  <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/blog-1.png" class="card-img-top" alt="...">
                   <div class="card-body ">
                     <p class="text-black-50 fs-0.25">January 17,2017</p>
                     <p class="card-text">Some Awesome Blog Title Here</p>
@@ -314,7 +314,7 @@
             <!-- section 2 in row -->   
             <div class="col-md-6 col-lg-4 pt-5 pb-5">
               <div class="card" style="width: 18rem;">
-                <img src="http://localhost/wordpress/wp-content/uploads/2023/07/blog.png" class="card-img-top" alt="...">
+                <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/blog-1.png" class="card-img-top" alt="...">
                 <div class="card-body ">
                   <p class="text-black-50 fs-0.25">January 17,2017</p>
                   <p class="card-text">Some Awesome Blog Title Here</p>
@@ -324,7 +324,7 @@
              <!-- section 3 in row--> 
              <div class="col-md-6 col-lg-4 pt-5 pb-5">
               <div class="card" style="width: 18rem;">
-                <img src="http://localhost/wordpress/wp-content/uploads/2023/07/blog.png" class="card-img-top" alt="...">
+                <img src="http://127.0.0.1:8000/testWordPress/wp-content/uploads/2023/12/blog-1.png" class="card-img-top" alt="...">
                 <div class="card-body ">
                   <p class="text-black-50 fs-0.25">January 17,2017</p>
                   <p class="card-text">Some Awesome Blog Title Here</p>
